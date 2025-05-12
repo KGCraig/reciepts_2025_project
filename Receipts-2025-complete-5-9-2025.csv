@@ -1,0 +1,233 @@
+record_id,store_name,date,item_name,department,price,on_sale,sale_amount,final_price
+1,MARKET 32,03/27/25,Tomato on the Vine,Produce,1.79,0,0,1.79
+2,MARKET 32,03/27/25,Onions,Produce,0.81,0,0,0.81
+3,MARKET 32,03/27/25,Lettuce,Produce,1.99,0,0,1.99
+4,MARKET 32,03/27/25,Ground Turkey,Meat,13.99,0,0,13.99
+5,MARKET 32,03/27/25,Cracked Pepper Turkey,Meat,11.32,0,0,11.32
+6,MARKET 32,03/27/25,American Cheese,Dairy,5.93,0,0,5.93
+7,WALMART,03/21/25,Grape Soda,Beverages,1,0,0,1
+8,WALMART,03/21/25,Cream Soda,Beverages,1,0,0,1
+9,WALMART,03/21/25,Potatoes,Produce,2.98,0,0,2.98
+10,WALMART,03/21/25,Mayonnaise,Condiments,3.98,0,0,3.98
+11,WALMART,03/21/25,Sweet Relish,Condiments,1.68,0,0,1.68
+12,WALMART,03/21/25,Vegetable Oil,Pantry,3.97,0,0,3.97
+13,WALMART,03/21/25,Cooking Spray,Pantry,2.52,0,0,2.52
+14,WALMART,03/21/25,Colombian Coffee,Pantry,4.44,0,0,4.44
+15,WALMART,03/21/25,Toilet Cleaner,Household,2.68,0,0,2.68
+16,WALMART,03/21/25,Banana Bread Mix,Baking,2.64,0,0,2.64
+17,WALMART,03/21/25,Spaghetti,Pantry,2.18,0,0,2.18
+18,WALMART,03/21/25,Wax Melt,Household,1.1,0,0,1.1
+19,WALMART,03/21/25,Candle Melt,Household,1.1,0,0,1.1
+20,WALMART,03/21/25,Candle Melt,Household,1.1,0,0,1.1
+21,WALMART,03/21/25,Wax Melt,Household,2.33,0,0,2.33
+22,WALMART,03/21/25,Sugar,Sugar,4.34,0,0,4.34
+23,WALMART,03/21/25,Mozzarella Cheese,Dairy,3.74,0,0,3.74
+24,WALMART,03/21/25,Jimmy Dean Premium Applewood Bacon,Meat,5.48,0,0,5.48
+25,WALMART,03/21/25,Turkey Sausage,Meat,3.23,0,0,3.23
+26,WALMART,03/21/25,Fish Fry Seasoning,Seasoning,1.88,0,0,1.88
+27,WALMART,03/21/25,Eggs,Eggs,5.63,0,0,5.63
+28,WALMART,03/21/25,Organic Salad,Produce,2.98,0,0,2.98
+29,WALMART,03/21/25,Coffee Filters,Pantry,1.86,0,0,1.86
+30,WALMART,03/21/25,Bagels,Bread,2.46,0,0,2.46
+31,WALMART,03/21/25,Bagels,Bread,2.46,0,0,2.46
+32,WALMART,03/21/25,Trash Bags,Household,1.68,0,0,1.68
+33,WALMART,03/21/25,Trash Bags,Household,1.68,0,0,1.68
+34,WALMART,03/21/25,Freezer Bags,Household,1.98,0,0,1.98
+35,WALMART,03/21/25,Great Value Everyday Paper Towels,Household,2.38,0,0,2.38
+36,WALMART,03/21/25,Hair Catcher,Household,3.96,0,0,3.96
+37,WALMART,03/21/25,Coconut Oil,Household,0.97,0,0,0.97
+38,WALMART,03/21/25,Coconut Oil,Household,0.97,0,0,0.97
+39,WALMART,03/21/25,Hair Lotion,Household,5.98,0,0,5.98
+40,WALMART,03/21/25,Pizza Puffs,Snacks,3.33,0,0,3.33
+41,WALMART,03/21/25,Limes,Produce,1,0,0,1
+42,WALMART,03/21/25,Olive Oil,Pantry,5.94,0,0,5.94
+43,WALMART,03/21/25,Bath Caddy,Household,2.97,0,0,2.97
+44,DOLLAR GENERAL,03/29/25,Canada Dry Soda,Beverages,2.95,1,-0.44,2.51
+45,DOLLAR GENERAL,03/29/25,Lipton Brisk Tea,Beverages,3,1,-0.44,2.56
+46,DOLLAR GENERAL,03/29/25,Sunkist Soda,Beverages,2.05,1,-0.3,1.75
+47,DOLLAR GENERAL,03/29/25,Lysol Power Foam,Household,2.9,1,-0.58,2.32
+48,DOLLAR GENERAL,03/29/25,Arm and Hammer Clear Water Body Wash,Household,1,1,-0.15,0.85
+49,DOLLAR GENERAL,03/29/25,Arm and Hammer Simply Fresh Body Wash,Household,1,1,-0.15,0.85
+50,DOLLAR GENERAL,03/29/25,Arm and Hammer Clear Water Body Wash,Household,1,1,-0.15,0.85
+51,DOLLAR GENERAL,03/29/25,Cotton Candy,Snacks,1,1,-0.15,0.85
+52,DOLLAR GENERAL,03/29/25,Solar Panel Lights,Household,5,1,-0.74,4.26
+53,DOLLAR GENERAL,03/29/25,Mini Oreos,Snacks,2.95,1,-0.44,2.51
+54,DOLLAR GENERAL,03/29/25,Now and Later,Snacks,2.75,1,-0.41,2.34
+55,DOLLAR GENERAL,03/29/25,Cleaning Wipes,Household,1,1,-0.15,0.85
+56,DOLLAR GENERAL,03/29/25,Stainless Steel Scrubber,Household,1,1,-0.15,0.85
+57,DOLLAR GENERAL,03/29/25,Edge Hair Brush,Household,2,1,-0.3,1.7
+58,DOLLAR GENERAL,03/29/25,Goobers,Snacks,1,1,-0.15,0.85
+59,DOLLAR GENERAL,03/29/25,Sweet Tarts,Snacks,1,1,-0.15,0.85
+60,DOLLAR GENERAL,03/29/25,Sweet Tarts,Snacks,2,1,-0.15,1.85
+61,DOLLAR GENERAL,03/29/25,Budweiser,Alcohol,2.55,0,0,2.55
+62,SHOPRITE,03/18/25,Sugar,Sugar,2.99,0,0,2.99
+63,SHOPRITE,03/18/25,Oreos,Snacks,5.29,1,-3.58,1.71
+64,SHOPRITE,03/18/25,Oreos,Snacks,5.29,0,0,5.29
+65,SHOPRITE,03/18/25,Sweet Tarts,Snacks,1.79,0,0,1.79
+66,SHOPRITE,03/18/25,Thin Sliced Chicken Breasts,Meat,3.79,1,-1.43,2.36
+67,SHOPRITE,03/18/25,Thin Sliced Chicken Breasts,Meat,4.75,1,-1.78,2.97
+68,SHOPRITE,03/18/25,Ground Turkey,Meat,10.98,0,0,10.98
+69,SHOPRITE,03/18/25,Margarine Sticks,Dairy,2.19,0,0,2.19
+70,SHOPRITE,03/18/25,Turkey Franks,Meat,2.49,1,-1,1.49
+71,SHOPRITE,03/18/25,Turkey Franks,Meat,2.49,1,-1,1.49
+72,SHOPRITE,03/27/25,Cat Litter,Household,7.49,1,-0.7,6.79
+73,SHOPRITE,03/27/25,Flour Tortilla,Bread,1.99,0,0,1.99
+74,SHOPRITE,03/27/25,Flour Tortilla,Bread,1.99,0,0,1.99
+75,SHOPRITE,03/27/25,Ketchup,Condiments,2.59,0,0,2.59
+76,SHOPRITE,03/27/25,Caesar Salad Dressing,Condiments,2.49,1,-0.99,1.5
+77,SHOPRITE,03/27/25,Mayonnaise,Condiments,3.79,0,0,3.79
+78,SHOPRITE,03/27/25,Toilet Paper,Household,17.99,1,-6,11.99
+79,SHOPRITE,03/27/25,Sunkist Soda,Beverages,3.39,1,-0.78,2.61
+80,SHOPRITE,03/27/25,Cream Soda,Beverages,3.39,0,0,3.39
+81,SHOPRITE,03/27/25,Hamburger Buns,Bread,3.49,1,-1.25,2.24
+82,SHOPRITE,03/27/25,Hamburger Buns,Bread,3.49,1,-1.25,2.24
+83,SHOPRITE,03/27/25,Potato Bread,Bread,2.99,1,-1.3,1.69
+84,SHOPRITE,03/27/25,Spicy Chicken Patties,Meat,3.99,0,0,3.99
+85,SHOPRITE,03/27/25,Regular Chicken Patties,Meat,3.99,0,0,3.99
+86,SHOPRITE,03/27/25,Mexican Blend Cheese,Dairy,1.99,1,-0.72,1.27
+87,SHOPRITE,03/27/25,Fatboy Ice Cream Bars,Snacks,6.29,1,-3.49,2.8
+88,SHOPRITE,03/27/25,Fatboy Ice Cream Bars,Snacks,6.29,1,-3.49,2.8
+89,SHOPRITE,03/16/25,Canada Dry Soda,Beverages,1.99,0,0,1.99
+90,SHOPRITE,03/16/25,Cat Treats,Household,6.79,0,0,6.79
+91,SHOPRITE,03/16/25,Oatmeal Cookies,Snacks,3,1,-1.19,1.81
+92,SHOPRITE,03/16/25,Oatmeal Cookies,Snacks,3,1,-1.19,1.81
+93,SHOPRITE,03/16/25,Butterfinger,Snacks,1.19,0,0,1.19
+94,SHOPRITE,03/16/25,Doritos,Snacks,3.99,1,-3.41,0.58
+95,SHOPRITE,03/16/25,Italian Bread,Bread,2.99,1,-2.3,0.69
+96,SHOPRITE,03/16/25,Hamburger Buns,Bread,2.79,0,0,2.79
+97,SHOPRITE,03/16/25,Hamburger Buns,Bread,2.79,0,0,2.79
+98,SHOPRITE,03/16/25,Ground Turkey,Meat,9.99,0,0,9.99
+99,SHOPRITE,03/16/25,Chicken Wing Sections,Meat,11.99,0,0,11.99
+100,SHOPRITE,03/16/25,Cabbage,Produce,1.31,1,-0.57,0.74
+101,SHOPRITE,03/16/25,Cream Cheese,Dairy,1.89,1,-1,0.89
+102,SHOPRITE,03/16/25,Bacon,Meat,4.19,1,-2.5,1.69
+103,SHOPRITE,03/16/25,Fruit Punch,Beverages,2.99,1,-1,1.99
+104,SHOPRITE,03/16/25,Half Gallon Milk,Dairy,2.31,0,0,2.31
+105,SHOPRITE,03/16/25,Pizza,Frozen,5.49,1,-0.5,4.99
+106,SHOPRITE,03/16/25,Pizza,Frozen,5.49,1,-0.5,4.99
+107,SHOPRITE,03/16/25,Pizza Bagel,Frozen,1.69,1,-1.3,0.39
+108,SHOPRITE,03/16/25,Pizza Bagel,Frozen,1.69,1,-1.3,0.39
+109,SHOPRITE,03/16/25,French Fries,Frozen,4.29,1,-0.7,3.59
+110,SHOPRITE,03/16/25,Eggnog Ice Cream,Snacks,4.68,1,-2,2.68
+111,WALMART,4/18/2025,Ammonia,Household,1.98,0,0,1.98
+112,WALMART,4/18/2025,Mango Green Tea,Beverages,1.97,0,0,1.97
+113,WALMART,4/18/2025,Iced Tea,Beverages,2.48,0,0,2.48
+114,WALMART,4/18/2025,Whole Milk,Dairy,4.72,0,0,4.72
+115,WALMART,4/18/2025,Beverage,Beverages,1.26,0,0,1.26
+116,WALMART,4/18/2025,Vegetable Oil,Pantry,3.97,0,0,3.97
+117,WALMART,4/18/2025,Bar Keepers Friend,Household,2.72,0,0,2.72
+118,WALMART,4/18/2025,Margarine,Dairy,3.58,0,0,3.58
+119,WALMART,4/18/2025,Beverage,Beverages,1.26,0,0,1.26
+120,WALMART,4/18/2025,Colombian Coffee,Household,4.44,0,0,4.44
+121,WALMART,4/18/2025,Chips Ahoy,Snacks,3.46,0,0,3.46
+122,WALMART,4/18/2025,Can Opener,Household,5.97,0,0,5.97
+123,WALMART,4/18/2025,Jello Pudding,Baking,1.48,0,0,1.48
+124,WALMART,4/18/2025,Jello Pudding,Baking,1.48,0,0,1.48
+125,WALMART,4/18/2025,Jello Pudding,Baking,1.48,0,0,1.48
+126,WALMART,4/18/2025,Cream Cheese,Dairy,2.98,0,0,2.98
+127,WALMART,4/18/2025,Baking Soda,Baking,0.92,0,0,0.92
+128,WALMART,4/18/2025,Baking Soda,Baking,0.92,0,0,0.92
+129,WALMART,4/18/2025,Jello Pudding,Baking,1.48,0,0,1.48
+130,WALMART,4/18/2025,Poppi Soda,Beverages,1,0,0,1
+131,WALMART,4/18/2025,Poppi Soda,Beverages,1,0,0,1
+132,WALMART,4/18/2025,Evaporated Milk,Dairy,1.34,0,0,1.34
+133,WALMART,4/18/2025,Poppi Soda,Beverages,1,0,0,1
+134,WALMART,4/18/2025,Poppi Soda,Beverages,1,0,0,1
+135,WALMART,4/18/2025,Poppi Soda,Beverages,1,0,0,1
+136,WALMART,4/18/2025,Poppi Soda,Beverages,1,0,0,1
+137,WALMART,4/18/2025,Evaporated Milk,Dairy,1.34,0,0,1.34
+138,WALMART,4/18/2025,Dutch Apple Pie,Frozen,6.97,0,0,6.97
+139,WALMART,4/18/2025,Crinkle Cut French Fries,Frozen,3.97,0,0,3.97
+140,WALMART,4/18/2025,Breyers Ice Cream,Snacks,3.87,0,0,3.87
+141,WALMART,4/18/2025,Garlic Cheese Bread,Frozen,2.68,0,0,2.68
+142,WALMART,4/18/2025,Pie Crust,Baking,1.26,0,0,1.26
+143,WALMART,4/18/2025,Pie Crust,Baking,1.26,0,0,1.26
+144,WALMART,4/18/2025,Pizza,Frozen,3.84,0,0,3.84
+145,WALMART,4/18/2025,Pizza,Frozen,3.84,0,0,3.84
+146,WALMART,4/18/2025,Chicken Parm Patties,Frozen,3.97,0,0,3.97
+147,WALMART,4/18/2025,Sugar,Baking,4.34,0,0,4.34
+148,WALMART,4/18/2025,Eggs,Eggs,5.63,0,0,5.63
+149,WALMART,4/18/2025,Italian Bread,Bread,1.47,0,0,1.47
+150,WALMART,4/18/2025,Vanilla Wafers,Snacks,2.83,0,0,2.83
+151,WALMART,4/18/2025,Plain Bagels,Bread,2.08,0,0,2.08
+152,WALMART,4/18/2025,Rolls,Bread,2.87,0,0,2.87
+153,WALMART,4/18/2025,Bread,Bread,2.98,0,0,2.98
+154,WALMART,4/18/2025,Donuts,Snacks,4.67,0,0,4.67
+155,WALMART,4/18/2025,Empty Spray Bottle,Household,1.98,0,0,1.98
+156,WALMART,4/18/2025,Drain Stick,Household,3.98,0,0,3.98
+157,WALMART,4/18/2025,Butter Popcorn,Snacks,2.08,0,0,2.08
+158,WALMART,4/18/2025,Earring Hoops,Household,2.66,0,0,2.66
+159,WALMART,4/18/2025,Mangos,Produce,2.14,0,0,2.14
+160,WALMART,4/18/2025,Bananas,Produce,0.78,0,0,0.78
+161,SHOPRITE,4/3/2025,Ground Coffee,Household,6.99,1,-2,4.99
+162,SHOPRITE,4/3/2025,Bread Crumbs,Pantry,2.39,1,-0.6,1.79
+163,SHOPRITE,4/3/2025,Bread Crumbs,Pantry,2.39,1,-0.6,1.79
+164,SHOPRITE,4/3/2025,Tomato Sauce,Pantry,1.89,1,-0.1,1.79
+165,SHOPRITE,4/3/2025,Tomato Sauce,Pantry,1.89,1,-0.1,1.79
+166,SHOPRITE,4/3/2025,Tomato Sauce,Pantry,1.89,1,-0.1,1.79
+167,SHOPRITE,4/3/2025,Tomato Sauce,Pantry,1.89,1,-0.1,1.79
+168,SHOPRITE,4/3/2025,Tortilla Pockets,Bread,4.39,0,0,4.39
+169,SHOPRITE,4/3/2025,Sofrito,Pantry,2.69,0,0,2.69
+170,SHOPRITE,4/3/2025,Sazon Seasoning,Seasoning,1.49,0,0,1.49
+171,SHOPRITE,4/3/2025,Sazon Seasoning,Seasoning,1.49,0,0,1.49
+172,SHOPRITE,4/3/2025,Garlic Sesame Sauce,Condiments,2.99,0,0,2.99
+173,SHOPRITE,4/3/2025,Garlic Sesame Sauce,Condiments,2.99,0,0,2.99
+174,SHOPRITE,4/3/2025,Three Cheese Pasta Sauce,Pantry,4.99,0,0,4.99
+175,SHOPRITE,4/3/2025,Three Cheese Pasta Sauce,Pantry,4.99,0,0,4.99
+176,SHOPRITE,4/3/2025,Chopped Onions,Seasoning,2.49,0,0,2.49
+177,SHOPRITE,4/3/2025,Sugar,Sugar,2.99,1,-2,0.99
+178,SHOPRITE,4/3/2025,Sugar,Sugar,2.99,1,-2,0.99
+179,SHOPRITE,4/3/2025,Evaporated Milk,Dairy,1.29,1,-0.5,0.79
+180,SHOPRITE,4/3/2025,Evaporated Milk,Dairy,1.29,1,-0.5,0.79
+181,SHOPRITE,4/3/2025,Evaporated Milk,Dairy,1.29,1,-0.5,0.79
+182,SHOPRITE,4/3/2025,Evaporated Milk,Dairy,1.29,1,-0.5,0.79
+183,SHOPRITE,4/3/2025,Parchment Paper,Household,3.99,1,-0.6,3.39
+184,SHOPRITE,4/3/2025,Aluminum Foil,Household,4.99,1,-0.5,4.49
+185,SHOPRITE,4/3/2025,Wheat Bread,Bread,2.99,1,-1.5,1.49
+186,SHOPRITE,4/3/2025,Bagels,Bread,4.49,1,-0.8,3.69
+187,SHOPRITE,4/3/2025,Boneless Chicken Breast Thin Slice,Meat,5.71,0,0,5.71
+188,SHOPRITE,4/3/2025,Cabbage,Produce,0.21,1,-1.69,-1.48
+189,SHOPRITE,4/3/2025,Cream Cheese,Dairy,2.69,0,0,2.69
+190,SHOPRITE,4/3/2025,Shredded Mozzarella,Dairy,1.99,1,-0.5,1.49
+191,SHOPRITE,4/3/2025,Yellow American Cheese,Dairy,2.84,1,-1.43,1.41
+192,SHOPRITE,4/3/2025,Empanada Discs,Bread,2.29,0,0,2.29
+193,SHOPRITE,4/3/2025,Empanada Discs,Bread,2.29,0,0,2.29
+194,SHOPRITE,4/3/2025,Salmon Fillets,Meat,6.98,1,-3.01,3.97
+195,SHOPRITE,4/3/2025,Salmon Fillets,Meat,6.98,1,-3.01,3.97
+196,SHOPRITE,4/3/2025,Whiting Fillets,Meat,6.98,1,-1,5.98
+197,SHOPRITE,4/3/2025,Whiting Fillets,Meat,6.98,1,-1,5.98
+198,SHOPRITE,4/3/2025,Tulips,Household,5.99,0,0,5.99
+199,SHOPRITE,4/3/2025,Hyacinth,Household,5.99,0,0,5.99
+200,SHOPRITE,4/3/2025,Hyacinth,Household,5.99,0,0,5.99
+201,SHOPRITE,4/3/2025,Daffodils,Household,5.99,0,0,5.99
+202,SHOPRITE,4/27/2025,Hard/Soft Taco Shells,Bread,3.79,1,-0.8,2.99
+203,SHOPRITE,4/27/2025,Hamburger Buns,Bread,2.49,1,-1.8,0.69
+204,SHOPRITE,4/27/2025,Hamburger Buns,Bread,1.49,0,0,1.49
+205,SHOPRITE,4/27/2025,Folgers Coffee,Pantry,5.69,1,-1.1,4.59
+206,SHOPRITE,4/27/2025,Barbeque Sauce,Pantry,2.49,1,-0.2,2.29
+207,SHOPRITE,4/27/2025,Caribbean Jerk Seasoning,Pantry,3.29,1,-0.2,3.09
+208,SHOPRITE,4/27/2025,Honey Bourbon Sauce,Pantry,3.29,1,-0.2,3.09
+209,SHOPRITE,4/27/2025,Lemon Pepper Marinade,Pantry,3.29,1,-0.2,3.09
+210,SHOPRITE,4/27/2025,Freezer Bags,Pantry,1.29,1,-0.9,0.39
+211,SHOPRITE,4/27/2025,Sugar,Sugar,2.99,0,0,2.99
+212,SHOPRITE,4/27/2025,Garlic and Herb Seasoning,Seasoning,2.44,1,-1.35,1.09
+213,SHOPRITE,4/27/2025,Butter Garlic Seasoning,Seasoning,2.44,1,-1.35,1.09
+214,SHOPRITE,4/27/2025,Jamaican Jerk Rub,Seasoning,2.49,0,0,2.49
+215,SHOPRITE,4/27/2025,Sweet Tarts,Snacks,1.79,0,0,1.79
+216,SHOPRITE,4/27/2025,Coconut Milk,Pantry,1.59,0,0,1.59
+217,SHOPRITE,4/27/2025,Penne Pasta,Pantry,1.29,1,-0.1,1.19
+218,SHOPRITE,4/27/2025,Snapple Fruit Punch,Beverages,3.17,1,-0.12,3.05
+219,SHOPRITE,4/27/2025,Snapple Mango Madness,Beverages,3.17,1,-0.12,3.05
+220,SHOPRITE,4/27/2025,Snapple Apple,Beverages,3.17,1,-0.12,3.05
+221,SHOPRITE,4/27/2025,Ginger Ale,Beverages,1.89,0,0,1.89
+222,SHOPRITE,4/27/2025,Honey Wheat Bread,Bread,1.99,1,-0.5,1.49
+223,SHOPRITE,4/27/2025,Thomas' English Muffins,Bread,2.99,1,-2.3,0.69
+224,SHOPRITE,4/27/2025,Perfect Chicken Breasts,Meat,7.99,1,-2,5.99
+225,SHOPRITE,4/27/2025,Ground Turkey,Meat,10.98,0,0,10.98
+226,SHOPRITE,4/27/2025,Chicken Wing Sections,Meat,11.99,0,0,11.99
+227,SHOPRITE,4/27/2025,Green Pepper,Produce,0.64,1,-0.43,0.21
+228,SHOPRITE,4/27/2025,Red Peppers,Produce,1,1,-0.76,0.24
+229,SHOPRITE,4/27/2025,Yellow Peppers,Produce,1.64,0,0,1.64
+230,SHOPRITE,4/27/2025,Scallions,Produce,0.99,0,0,0.99
+231,SHOPRITE,4/27/2025,Turkey Franks,Meat,3.69,0,0,3.69
+232,SHOPRITE,4/27/2025,Crest Toothpaste,Household,1.99,1,-0.5,1.49

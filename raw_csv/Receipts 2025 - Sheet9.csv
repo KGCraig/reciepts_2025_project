@@ -1,0 +1,33 @@
+store_name,date,item_name,department,price,sale_amount,on_sale,final_price
+SHOPRITE,4/27/2025,Hard/Soft Taco Shells,Bread,3.79,-0.8,1,2.99
+SHOPRITE,4/27/2025,Hamburger Rolls,Bread,2.49,-1.8,1,0.69
+SHOPRITE,4/27/2025,Hamburger Rolls,Bread,1.49,0,0,1.49
+SHOPRITE,4/27/2025,Folgers Coffee,Pantry,5.69,-1.1,1,4.59
+SHOPRITE,4/27/2025,Barbeque Sauce,Pantry,2.49,-0.2,1,2.29
+SHOPRITE,4/27/2025,Caribbean Jerk Seasoning,Pantry,3.29,-0.2,1,3.09
+SHOPRITE,4/27/2025,Honey Bourbon Sauce,Pantry,3.29,-0.2,1,3.09
+SHOPRITE,4/27/2025,Lemon Pepper Marinade,Pantry,3.29,-0.2,1,3.09
+SHOPRITE,4/27/2025,Freezer Bags,Pantry,1.29,-0.9,1,0.39
+SHOPRITE,4/27/2025,Sugar,Sugar,2.99,0,0,2.99
+SHOPRITE,4/27/2025,Garlic and Herb Seasoning,Seasoning,2.44,-1.35,1,1.09
+SHOPRITE,4/27/2025,Butter Garlic Seasoning,Seasoning,2.44,-1.35,1,1.09
+SHOPRITE,4/27/2025,Jamaican Jerk Rub,Seasoning,2.49,0,0,2.49
+SHOPRITE,4/27/2025,Sweet Tarts,Snacks,1.79,0,0,1.79
+SHOPRITE,4/27/2025,Coconut Milk,Pantry,1.59,0,0,1.59
+SHOPRITE,4/27/2025,Penne Pasta,Pantry,1.29,-0.1,1,1.19
+SHOPRITE,4/27/2025,Snapple Fruit Punch,Beverages,3.17,-0.12,1,3.05
+SHOPRITE,4/27/2025,Snapple Mango Madness,Beverages,3.17,-0.12,1,3.05
+SHOPRITE,4/27/2025,Snapple Apple,Beverages,3.17,-0.12,1,3.05
+SHOPRITE,4/27/2025,Bottle Deposit Fee,NONE,0.05,0,0,0.05
+SHOPRITE,4/27/2025,Ginger Ale,Beverages,1.89,0,0,1.89
+SHOPRITE,4/27/2025,Honey Wheat Bread,Bread,1.99,-0.5,1,1.49
+SHOPRITE,4/27/2025,Thomas' English Muffins,Bread,2.99,-2.3,1,0.69
+SHOPRITE,4/27/2025,Perdue Perfect Chicken Breasts,Meat,7.99,-2,1,5.99
+SHOPRITE,4/27/2025,Ground Turkey,Meat,10.98,0,0,10.98
+SHOPRITE,4/27/2025,Chicken Wingettes,Meat,11.99,0,0,11.99
+SHOPRITE,4/27/2025,Green Pepper,Produce,0.64,-0.43,1,0.21
+SHOPRITE,4/27/2025,Red Peppers,Produce,1,-0.76,1,0.24
+SHOPRITE,4/27/2025,Yellow Peppers,Produce,1.64,0,0,1.64
+SHOPRITE,4/27/2025,Scallions,Produce,0.99,0,0,0.99
+SHOPRITE,4/27/2025,Turkey Franks,Meat,3.69,0,0,3.69
+SHOPRITE,4/27/2025,Crest Toothpaste,Household,1.99,-0.5,1,1.49

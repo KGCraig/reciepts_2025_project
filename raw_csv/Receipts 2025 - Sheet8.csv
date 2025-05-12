@@ -1,0 +1,42 @@
+store_name,date,item_name,department,price,sale_amount,on_sale,final_price
+SHOPRITE,4/3/2025,Ground Coffee,Household,6.99,-2,1,4.99
+SHOPRITE,4/3/2025,Bread Crumbs,Pantry,2.39,-0.6,1,1.79
+SHOPRITE,4/3/2025,Bread Crumbs,Pantry,2.39,-0.6,1,1.79
+SHOPRITE,4/3/2025,Tomato Sauce,Pantry,1.89,-0.1,1,1.79
+SHOPRITE,4/3/2025,Tomato Sauce,Pantry,1.89,-0.1,1,1.79
+SHOPRITE,4/3/2025,Tomato Sauce,Pantry,1.89,-0.1,1,1.79
+SHOPRITE,4/3/2025,Tomato Sauce,Pantry,1.89,-0.1,1,1.79
+SHOPRITE,4/3/2025,Tortilla Pockets,Bread,4.39,0,0,4.39
+SHOPRITE,4/3/2025,Sofrito,Pantry,2.69,0,0,2.69
+SHOPRITE,4/3/2025,Sazon Seasoning,Seasoning,1.49,0,0,1.49
+SHOPRITE,4/3/2025,Sazon Seasoning,Seasoning,1.49,0,0,1.49
+SHOPRITE,4/3/2025,Garlic Sesame Sauce,Condiments,2.99,0,0,2.99
+SHOPRITE,4/3/2025,Garlic Sesame Sauce,Condiments,2.99,0,0,2.99
+SHOPRITE,4/3/2025,Three Cheese Pasta Sauce,Pantry,4.99,0,0,4.99
+SHOPRITE,4/3/2025,Three Cheese Pasta Sauce,Pantry,4.99,0,0,4.99
+SHOPRITE,4/3/2025,Chopped Onions,Seasoning,2.49,0,0,2.49
+SHOPRITE,4/3/2025,Sugar,Sugar,2.99,-2,1,0.99
+SHOPRITE,4/3/2025,Sugar,Sugar,2.99,-2,1,0.99
+SHOPRITE,4/3/2025,Evaporated Milk,Dairy,1.29,-0.5,1,0.79
+SHOPRITE,4/3/2025,Evaporated Milk,Dairy,1.29,-0.5,1,0.79
+SHOPRITE,4/3/2025,Evaporated Milk,Dairy,1.29,-0.5,1,0.79
+SHOPRITE,4/3/2025,Evaporated Milk,Dairy,1.29,-0.5,1,0.79
+SHOPRITE,4/3/2025,Parchment Paper,Household,3.99,-0.6,1,3.39
+SHOPRITE,4/3/2025,Aluminum Foil,Household,4.99,-0.5,1,4.49
+SHOPRITE,4/3/2025,Wheat Bread,Bread,2.99,-1.5,1,1.49
+SHOPRITE,4/3/2025,Bagels,Bread,4.49,-0.8,1,3.69
+SHOPRITE,4/3/2025,Boneless Chicken Breast Thin Slice,Meat,5.71,0,0,5.71
+SHOPRITE,4/3/2025,Cabbage,Produce,0.21,-1.69,1,-1.48
+SHOPRITE,4/3/2025,Cream Cheese,Dairy,2.69,0,0,2.69
+SHOPRITE,4/3/2025,Shredded Mozzarella ,Dairy,1.99,-0.5,1,1.49
+SHOPRITE,4/3/2025,Yellow American Cheese,Dairy,2.84,-1.43,1,1.41
+SHOPRITE,4/3/2025,Empanada Discs,Bread,2.29,0,0,2.29
+SHOPRITE,4/3/2025,Empanada Discs,Bread,2.29,0,0,2.29
+SHOPRITE,4/3/2025,Salmon Fillets,Meat,6.98,-3.01,1,3.97
+SHOPRITE,4/3/2025,Salmon Fillets,Meat,6.98,-3.01,1,3.97
+SHOPRITE,4/3/2025,Whiting Fillets,Meat,6.98,-1,1,5.98
+SHOPRITE,4/3/2025,Whiting Fillets,Meat,6.98,-1,1,5.98
+SHOPRITE,4/3/2025,Tulips,Household,5.99,0,0,5.99
+SHOPRITE,4/3/2025,Hyacinth,Household,5.99,0,0,5.99
+SHOPRITE,4/3/2025,Hyacinth,Household,5.99,0,0,5.99
+SHOPRITE,4/3/2025,Daffodils,Household,5.99,0,0,5.99

@@ -1,0 +1,7 @@
+store_name,date,item_name,department,price,on_sale,sale_amount,final_price
+MARKET 32,03/27/25,Tomato on the Vine,Produce,1.79,0,0.00,1.79
+MARKET 32,03/27/25,Onions,Produce,0.81,0,0.00,0.81
+MARKET 32,03/27/25,Lettuce,Produce,1.99,0,0.00,1.99
+MARKET 32,03/27/25,Ground Turkey,Meat,13.99,0,0.00,13.99
+MARKET 32,03/27/25,Cracked Pepper Turkey,Meat,11.32,0,0.00,11.32
+MARKET 32,03/27/25,American Cheese,Dairy,5.93,0,0.00,5.93

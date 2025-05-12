@@ -1,0 +1,40 @@
+store_name,date,item_name,department,price,on_sale,sale_amount,final_price
+WALMART,03/21/25,Grape Soda,Beverage,1.00,0,0.00,1.00
+WALMART,03/21/25,Bottle Deposit Fee,NONE,0.05,0,0.00,0.05
+WALMART,03/21/25,Cream Soda,Beverage,1.00,0,0.00,1.00
+WALMART,03/21/25,Bottle Deposit Fee,NONE,0.05,0,0.00,0.05
+WALMART,03/21/25,Potatoes,Produce,2.98,0,0.00,2.98
+WALMART,03/21/25,Mayonnaise,Condiments,3.98,0,0.00,3.98
+WALMART,03/21/25,Sweet Relish,Condiments,1.68,0,0.00,1.68
+WALMART,03/21/25,Vegetable Oil,Pantry,3.97,0,0.00,3.97
+WALMART,03/21/25,Cooking Spray,Pantry,2.52,0,0.00,2.52
+WALMART,03/21/25,Colombian Coffee,Pantry,4.44,0,0.00,4.44
+WALMART,03/21/25,Toilet Cleaner,Household,2.68,0,0.00,2.68
+WALMART,03/21/25,Banana Bread Mix,Baking,2.64,0,0.00,2.64
+WALMART,03/21/25,Spaghetti,Pasta,2.18,0,0.00,2.18
+WALMART,03/21/25,Wax Melt,Household,1.10,0,0.00,1.10
+WALMART,03/21/25,Candle Melt,Household,1.10,0,0.00,1.10
+WALMART,03/21/25,Candle Melt,Household,1.10,0,0.00,1.10
+WALMART,03/21/25,Wax Melt,Household,2.33,0,0.00,2.33
+WALMART,03/21/25,Sugar,Baking,4.34,0,0.00,4.34
+WALMART,03/21/25,Mozzarella Cheese,Dairy,3.74,0,0.00,3.74
+WALMART,03/21/25,Jimmy Dean Premium Applewood Bacon,Meat,5.48,0,0.00,5.48
+WALMART,03/21/25,Turkey Sausage,Meat,3.23,0,0.00,3.23
+WALMART,03/21/25,Fish Fry Seasoning,Seasoning,1.88,0,0.00,1.88
+WALMART,03/21/25,Eggs,Eggs,5.63,0,0.00,5.63
+WALMART,03/21/25,Organic Salad,Produce,2.98,0,0.00,2.98
+WALMART,03/21/25,Coffee Filters,Pantry,1.86,0,0.00,1.86
+WALMART,03/21/25,Bagel,Bread,2.46,0,0.00,2.46
+WALMART,03/21/25,Bagel,Bread,2.46,0,0.00,2.46
+WALMART,03/21/25,Trash Bags,Household,1.68,0,0.00,1.68
+WALMART,03/21/25,Trash Bags,Household,1.68,0,0.00,1.68
+WALMART,03/21/25,Freezer Bags,Household,1.98,0,0.00,1.98
+WALMART,03/21/25,Great Value Everyday Paper Towels,Household,2.38,0,0.00,2.38
+WALMART,03/21/25,Hair Catcher,Household,3.96,0,0.00,3.96
+WALMART,03/21/25,Coconut Oil,Household,0.97,0,0.00,0.97
+WALMART,03/21/25,Coconut Oil,Household,0.97,0,0.00,0.97
+WALMART,03/21/25,Hair Lotion,Household,5.98,0,0.00,5.98
+WALMART,03/21/25,Pizza Puffs,Snacks,3.33,0,0.00,3.33
+WALMART,03/21/25,Limes,Produce,1.00,0,0.00,1.00
+WALMART,03/21/25,Olive Oil,Pantry,5.94,0,0.00,5.94
+WALMART,03/21/25,Bath Caddy,Household,2.97,0,0.00,2.97
